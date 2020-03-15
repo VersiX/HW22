@@ -1,6 +1,6 @@
 function func1() {
     var name = prompt("Please enter your name:");
-    alert("Your name is " + name);
+    alert("Hello " + name);
     console.log("lol" + name + " What a stupid name!");
 }
 
