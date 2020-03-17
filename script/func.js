@@ -64,6 +64,6 @@ function func10() {
     const depositRate = 0.05;
     const mounths = 2;
     let sum = prompt("Please enter how much money you want to put on deposit:")
-    alert("After " + mounths + " you will get " + (sum * depositRate / mounths))
+    alert("After " + mounths + " mounths you will get " + (sum * depositRate / mounths))
 
 }
